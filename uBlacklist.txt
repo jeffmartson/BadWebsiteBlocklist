@@ -160,6 +160,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.symboltools.com/*
 *://lifetips.alibaba.com/*
 *://spice.alibaba.com/*
+*://*.medium.com/@ooikrish13/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
