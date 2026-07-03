@@ -158,6 +158,8 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.kommandotech.com/*
 *://*.byteiota.com/*
 *://*.symboltools.com/*
+*://lifetips.alibaba.com/*
+*://spice.alibaba.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
