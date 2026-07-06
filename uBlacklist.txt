@@ -379,6 +379,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.diskgenius.com/resource/*
 *://*.resilio.com/blog/*
 *://*.avaide.com/*
+*://*.checksub.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
