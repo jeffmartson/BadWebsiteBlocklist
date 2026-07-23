@@ -161,6 +161,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://lifetips.alibaba.com/*
 *://spice.alibaba.com/*
 *://*.medium.com/@ooikrish13/*
+*://*.eathealthy365.com/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
