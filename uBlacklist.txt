@@ -392,6 +392,10 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.digicert.com/blog/*
 *://*.soax.com/blog/*
 
+*://*.revouninstaller.com/*blog/*
+*://*.revouninstaller.com/preview-log/*
+*://*.revouninstaller.com/user-tutorials/*
+
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
 *://*.softonic.com/*
