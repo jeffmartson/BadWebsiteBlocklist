@@ -385,6 +385,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.checksub.com/blog/*
 *://go.lightnode.com/tech/*
 *://*.surfercloud.com/blog/*
+*://*.protonvpn.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
