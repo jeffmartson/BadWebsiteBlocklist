@@ -389,6 +389,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.surfercloud.com/blog/*
 *://*.protonvpn.com/blog/*
 *://*.digicert.com/blog/*
+*://*.soax.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
