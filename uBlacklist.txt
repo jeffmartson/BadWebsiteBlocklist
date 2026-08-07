@@ -164,6 +164,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.eathealthy365.com/*
 *://*.darazhost.com/*
 *://*.halo-mario.com/*
+*://*.simplyblock.io/glossary/*
 
 # ---------- Misleading Ad Websites (Articles made to sell products, etc)
 
