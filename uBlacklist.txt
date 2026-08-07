@@ -382,6 +382,7 @@ homepage: https://github.com/popcar2/BadWebsiteBlocklist
 *://*.avaide.com/*
 *://*.checksub.com/blog/*
 *://go.lightnode.com/tech/*
+*://*.surfercloud.com/blog/*
 
 # ---------- Viruses, Tampered Downloads, Fake Versions of Real Websites
 
